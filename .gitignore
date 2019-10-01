@@ -22,6 +22,8 @@ fedora.log
 redis.log
 script/log
 
+/config/master.key
+
 /node_modules
 /yarn-error.log
 
